@@ -1,4 +1,4 @@
-package gopractice
+package main
 
 import (
 	"fmt"
