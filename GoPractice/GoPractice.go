@@ -45,7 +45,6 @@ func main() {
 	fmt.Printf("Is HQ? %v\n", isHeadquarters&roles == isHeadquarters)
 
 	//ARRay declaration
-
 	grades1 := [...]int{84, 22, 44, 93, 90}
 	fmt.Printf("grades1 %v %T\n", grades1, grades1)
 	grades2 := [...]int{0, 1, 2, 3, 5, 8}
